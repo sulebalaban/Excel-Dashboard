@@ -33,3 +33,5 @@ Average number of customer care calls
 Average discount offered
 Average number of prior purchases
 Provides users with a quick overview of essential business performance indicators.
+![Language](https://img.shields.io/badge/language-Excel-green)
+
